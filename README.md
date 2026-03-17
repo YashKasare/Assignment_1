@@ -1,5 +1,5 @@
 # Assignment_1
-submiting Task 1 and Task 2 of Assignent 2 
+submiting Task 1 and Task 2 of Assignment 2 
 # Tutedude Python Assignment 1
 
 ## Task 1: Basic Mathematical Operations
